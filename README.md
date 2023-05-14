@@ -1,2 +1,2 @@
 # TrikopaPub
-These include projects mostly from https://hyperskill.org
+Trikopa Pub, projects mashed together 
